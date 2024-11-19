@@ -108,7 +108,7 @@ export default function Calendar() {
                         : "bg-gradient-to-br from-green-500 to-green-700 hover:from-green-400 hover:to-green-600 cursor-pointer hover:scale-105"
                       : "bg-gradient-to-br from-gray-500 to-gray-700 cursor-not-allowed opacity-50"
                   } ${
-                    day === currentDay
+                    day === currentDay && isDecember
                       ? "ring-4 ring-yellow-400 ring-opacity-50"
                       : ""
                   } shadow-lg hover:shadow-xl`}
