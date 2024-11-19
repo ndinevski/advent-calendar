@@ -42,6 +42,11 @@ Update `config.ts` to customize:
 - App title and design settings.
 - Congratulations card details.
 
+## Screenshots
+
+![Home Page](/public/exampleLandingPage.png)
+![Calendar Page](/public/exampleCalendarPage.png)
+
 ## Technologies Used
 
 - **Next.js**: Framework for React.
