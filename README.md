@@ -42,7 +42,9 @@ Update `config.ts` to customize:
 - App title and design settings.
 - Congratulations card details.
 
-## Screenshots
+## Showcase
+
+Checkout the demo template at [Demo](https://advent-calendar-ndinevskis-projects.vercel.app/)
 
 ![Home Page](/public/exampleLandingPage.png)
 ![Calendar Page](/public/exampleCalendarPage.png)
