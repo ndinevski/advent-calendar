@@ -10,16 +10,16 @@
   },
   "overrides": {
     "@radix-ui/react-icons": {
-      "react": "19.0.0-rc-69d4b800-20241021",
-      "react-dom": "19.0.0-rc-69d4b800-20241021"
+      "react": "18",
+      "react-dom": "18"
     },
     "framer-motion": {
-      "react": "19.0.0-rc-69d4b800-20241021",
-      "react-dom": "19.0.0-rc-69d4b800-20241021"
+      "react": "18",
+      "react-dom": "18"
     },
     "canvas-confetti": {
-      "react": "19.0.0-rc-69d4b800-20241021",
-      "react-dom": "19.0.0-rc-69d4b800-20241021"
+      "react": "18",
+      "react-dom": "18"
     }
   },
   "dependencies": {
@@ -31,8 +31,8 @@
     "framer-motion": "^11.11.17",
     "lucide-react": "^0.460.0",
     "next": "15.0.3",
-    "react": "19.0.0-rc-66855b96-20241106",
-    "react-dom": "19.0.0-rc-66855b96-20241106",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "shadcn-ui": "^0.9.3",
     "tailwind-merge": "^2.5.4",
     "tailwindcss-animate": "^1.0.7"

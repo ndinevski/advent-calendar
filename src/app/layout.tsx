@@ -10,8 +10,20 @@ const font = Berkshire_Swash({
 });
 
 export const metadata: Metadata = {
-  title: "Advent Calendar",
-  description: "Personal advent calendar",
+  title: "Advent Calendar Template",
+  description: "Advent Calendar Template",
+  openGraph: {
+    title: "Advent Calendar Template",
+    description: "Advent Calendar Template",
+    images: "thumbnail.png",
+    type: "website",
+    siteName: "Advent Calendar Template",
+  },
+  twitter: {
+    title: "Advent Calendar Template",
+    description: "Advent Calendar Template",
+    images: "thumbnail.png",
+  },
 };
 
 export default function RootLayout({
